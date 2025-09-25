@@ -1,4 +1,7 @@
-# c-lula-de-silaspradoti# 👋 Olá, eu sou o Silas!
+👋 Olá, eu sou o Silas!
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=silaspradoti-cell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silaspradoti-cell&layout=compact&langs_count=16&theme=tokyonight)  
 
 💻 **Estudante de Análise e Desenvolvimento de Sistemas**  
 🚀 Apaixonado por tecnologia, programação e desenvolvimento de soluções criativas.  
@@ -53,12 +56,6 @@ Meu objetivo é unir **tecnologia**, **nutrição** e **Saúde** em projetos que
 - 🔹 **Controle de SLA e Atendimentos** – Sistema para ordens de serviço e cadastro de clientes.  
 - 🔹 **Controle de Dieta e Condicionamento** – Ferramenta para acompanhamento nutricional e físico.  
 - 🔹 **Automação em VBA** – Scripts otimizados para empresas e uso pessoal.  
-
----
-
-## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=tokyonight)  
 
 ---
 
